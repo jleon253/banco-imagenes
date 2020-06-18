@@ -1,3 +1,15 @@
+# Banco de imagenes
+
+This small app allows see and download any image (photo, vector or illustration) thanks the Pixabay API.
+
+**Demo:**
+
+### Dev tools used:
+
+> - HTML, CSS, Bootstrap 4 and Bootswatch (https://bootswatch.com/darkly/), SpinKit
+> - ES6, React.js (Fecth API)
+> - Pixebay API (https://pixabay.com/api/docs/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
